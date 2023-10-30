@@ -9,6 +9,19 @@ To create this home lab I used a hp pc that I got from my fathers shop. The spec
 <li> well hp compaq mobo
 </ul>
 
-## What OS i will install
+## What OS I will install
 
 For this Homelab i will use ubuntu server as I am Familiar with the apt commands and the debian type distros , i will probs run a proxmox later when I get a upgrade 
+
+
+## What will I use it For
+ 
+ I will use this homelab to Create Different type of servers and play with it to gain more experience and to learn how to use linux servers more effeciently and professionally, 
+
+ ## Would I Upgrade this Project 
+
+ Yes eventually when i start to earn my money I will be Investing money on this project and make it so i can run multiple OS without any problem 
+
+ # Thank you 👍
+ ![Vibe](https://media.tenor.com/sv9DsEJe-AAAAAAC/vibe-cat.gif)
+
